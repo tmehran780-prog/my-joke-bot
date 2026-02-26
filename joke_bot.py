@@ -2,7 +2,7 @@ import telebot
 import random
 
 # توکن خودت را از BotFather بگیر و اینجا بزار
-API_TOKEN = 'YOUR_BOT_TOKEN_HERE'
+API_TOKEN = '7974147881:AAFfzU5S34dr-yQ4qPO1DII98EMUYRMgH5I'
 bot = telebot.TeleBot(API_TOKEN)
 
 # لیست شوخی‌ها و جواب‌های هوشمندانه
